@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+3. **Commit changes**
+
+---
+
+## Шаг 4. Проверь, что код работает (по желанию)
+
+Если хочешь запустить у себя:
+
+1. Скачай Python: **python.org/downloads** (галочка «Add Python to PATH» при установке)
+2. На странице репозитория открой `password_generator.py` → кнопка **Raw** → сохрани файл на рабочий стол
+3. Открой терминал (Windows: Win+R → `cmd`; Mac: Terminal)
+4. Перейди в папку с файлом и запусти:
